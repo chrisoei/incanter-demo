@@ -1,6 +1,4 @@
-(ns incanter-demo.core)
+(ns incanter-demo.core
+  (:require [incanter [core stats charts]
+            [com.c-oei/stardate [core]]]))
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
