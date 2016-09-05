@@ -1,5 +1,5 @@
 (defproject incanter-demo "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
+  :description "Demo project for time series analysis with Incanter"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
